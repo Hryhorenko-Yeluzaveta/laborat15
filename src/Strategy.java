@@ -1,4 +1,4 @@
-import jdk.jshell.execution.Util;
-public interface Strategy {
+
+public interface Flyweight {
          void Init();
     }

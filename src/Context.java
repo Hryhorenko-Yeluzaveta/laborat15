@@ -1,10 +1,14 @@
-public class Context {
-    private Strategy strategy;
-    public Context(Strategy strategy){
-        this.strategy = strategy;
+public class MenuFactory {
+    
+
+
+
+    /*private Flyweight flyweight;
+    public MenuFactory(Flyweight flyweight){
+        this.flyweight = flyweight;
     }
 
     public void executeStrategy() {
-        strategy.Init();
-    }
+        flyweight.Init();
+    }*/
 }
